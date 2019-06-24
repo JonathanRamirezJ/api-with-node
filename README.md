@@ -10,7 +10,7 @@ Create simple API with node
 ## Setup
 
 - `$ yarn`
-- Open [http://localhost:5000](http://localhost:5000) to view it in the browser
+- Open [http://localhost:5000/api/v1/todos](http://localhost:5000/api/v1/todos) to view it in the browser
 
 
 ## DB example
