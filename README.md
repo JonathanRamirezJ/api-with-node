@@ -6,6 +6,7 @@ Create simple API with node
 ## Requirements
 * [node.js](https://nodejs.org) >=v 8.11.4 (stable)
 * [yarn](http://yarnpkg.com)
+* [express](https://expressjs.com/es/)
 
 ## Setup
 
