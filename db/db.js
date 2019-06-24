@@ -2,7 +2,7 @@ const todos =  [
   {
     id: 1,
     title: "lunch",
-    description: "Go for lunc by 2pm"
+    description: "Go for lunc by 1pm"
   },
   {
     id: 2,
@@ -12,7 +12,7 @@ const todos =  [
   {
     id: 3,
     title: "lunch 3",
-    description: "Go for lunc by 2pm"
+    description: "Go for lunc by 3pm"
   }
 ];
 
