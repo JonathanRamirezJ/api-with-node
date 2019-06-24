@@ -10,6 +10,7 @@ Create simple API with node
 ## Setup
 
 - `$ yarn`
+- `$ yarn run api`
 - Open [http://localhost:5000/api/v1/todos](http://localhost:5000/api/v1/todos) to view it in the browser
 
 
